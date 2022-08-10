@@ -1,0 +1,8 @@
+{
+  "name": "Your Story", 
+  "description": "A forty word story generated from your address, completely on-chain",
+  "image": "https://yourstory-green.vercel.app/logo.png", 
+  "external_link": "https://yourstory-green.vercel.app/",
+  "seller_fee_basis_points": 690, 
+  "fee_recipient": "0x42e2DcaDC1d3B443C9279BbcD5cF65b2E15459c8"
+}
