@@ -1,8 +1,8 @@
 {
   "name": "Your Story", 
-  "description": "A forty word story generated from your address, completely on-chain",
-  "image": "https://yourstory-green.vercel.app/logo.png", 
-  "external_link": "https://yourstory-green.vercel.app/",
-  "seller_fee_basis_points": 690, 
+  "description": "A forty word story generated from your address, completely on-chain. \\n\\nThe rightful owner of this NFT owns all copyright that may exist in the image and text depicted in the corresponding SVG file, subject to the rights of owners of other NFTs minted under the same smart contract.",
+  "image": "https://yourstory.wtf/logo.png", 
+  "external_link": "https://yourstory.wtf/",
+  "seller_fee_basis_points": 628, 
   "fee_recipient": "0x42e2DcaDC1d3B443C9279BbcD5cF65b2E15459c8"
 }
