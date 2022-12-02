@@ -1,8 +1,8 @@
 {
   "name": "Your Story", 
-  "description": "A forty word story generated from your address, completely on-chain. \n\nThe rightful owner of this NFT owns all copyright that may exist in the image and text depicted in the corresponding SVG file, subject to the rights of owners of other NFTs minted under the same smart contract. Any grant or assignment of exclusive rights in such copyright shall be null and void except in connection with transfer of the NFT. Using a private key to sign a transaction that transfers this NFT constitutes a writing signed by the transferor assigning all such copyright to the transferee.",
+  "description": "A forty word story generated from your address, completely on-chain. \n\nThe rightful owner of this NFT owns all copyright that may exist in the work embodied in the NFT's tokenURI, subject to: (1) the rights of owners of other NFTs minted under the same smart contract as if all such NFTs were minted simultaneously; and (2) a nonexclusive, sublicensable, transferable license retained by the creator of the smart contract to reproduce, distribute, prepare derivative works based upon, and display the work embodied in the NFT's tokenURI solely to promote the NFT collection created through the smart contract. Using a private key to sign a transaction that transfers this NFT constitutes a writing signed by the transferor assigning all such copyright to the transferee. Grants or assignments of exclusive rights in such copyright shall be null and void except to the extent such rights are transferred upon transfer of the NFT.",
   "image": "https://yourstory.wtf/logo.png", 
   "external_link": "https://yourstory.wtf/",
   "seller_fee_basis_points": 628, 
-  "fee_recipient": "0x42e2DcaDC1d3B443C9279BbcD5cF65b2E15459c8"
+  "fee_recipient": "0xe853E578D526316D342ED758eE26a1741dC3fc29"
 }
